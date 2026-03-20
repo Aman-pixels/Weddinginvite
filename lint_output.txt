@@ -1,0 +1,30 @@
+
+> wedding@0.0.0 lint
+> eslint .
+
+
+A:\Wedding\src\components\Details.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  5:29  error  'Icon' is defined but never used                                               no-unused-vars
+
+A:\Wedding\src\components\Events.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+A:\Wedding\src\components\Gallery.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+A:\Wedding\src\components\Hero.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u       no-unused-vars
+  7:11  error  'y2' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+A:\Wedding\src\components\Loader.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+A:\Wedding\src\components\MusicButton.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+A:\Wedding\src\pages\Home.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+✖ 9 problems (9 errors, 0 warnings)
+
