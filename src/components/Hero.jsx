@@ -12,7 +12,7 @@ const Hero = () => {
             <div
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat z-0"
                 style={{
-                    backgroundImage: 'url("/landscape_wedding_main.png")',
+                    backgroundImage: 'url("/wedd2.0.jpg")',
                     filter: 'brightness(1.05) contrast(1.05)'
                 }}
             >
