@@ -17,6 +17,13 @@ const events = [
         image: "/c661ce996617cffb686a21846ec4dc43.jpg"
     },
     {
+        title: "Bangle Ceremony",
+        date: "April 20, 2026 (Monday)",
+        time: "Evening",
+        location: "Shri Ram Kripa Niwas, Village Dhobra",
+        image: "/bamgle%20ceremony.jpg"
+    },
+    {
         title: "Wedding",
         date: "April 25, 2026 (Saturday)",
         time: "Baarat Welcome 8:00 PM | Doli Under Starry Sky",
