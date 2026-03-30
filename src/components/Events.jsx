@@ -10,7 +10,7 @@ const events = [
         image: "/rampath.jpg"
     },
     {
-        title: "Completion & Preeti Bhoj",
+        title: "Preeti Bhoj",
         date: "April 20, 2026 (Monday)",
         time: "Path Completion at 10:00 AM, Lunch at 1:00 PM",
         location: "Shri Ram Kripa Niwas, Village Dhobra",
