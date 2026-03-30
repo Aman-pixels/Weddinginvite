@@ -16,6 +16,7 @@ const Footer = () => {
 
                 <p className="font-sans text-xs text-stone-400">
                     &copy; 2026 Wedding Invitation. Made with love.
+                    ~Aman✨
                 </p>
             </div>
         </footer>
