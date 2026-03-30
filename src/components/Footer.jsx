@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="mb-8 space-y-2">
                     <p className="font-serif text-sm md:text-base text-stone-300">With Best Compliments From:</p>
                     <p className="font-sans text-sm md:text-base">Aditya Saini – 94781-94387</p>
-                    <p className="font-sans text-sm md:text-base">Ankit Saini – 96736-13182</p>
+                    <p className="font-sans text-sm md:text-base">Afreshdeep Saini – 96736-13182</p>
                     <p className="font-serif italic text-sm md:text-base mt-2">& Entire Saini Family</p>
                 </div>
 

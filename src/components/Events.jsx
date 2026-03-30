@@ -6,21 +6,21 @@ const events = [
         title: "Shri Ramayan Path Begins",
         date: "April 19, 2026 (Sunday)",
         time: "10:00 AM",
-        location: "Shri Ram Kripa Niwas, Village Dhobda",
+        location: "Shri Ram Kripa Niwas, Village Dhobra",
         image: "/rampath.jpg"
     },
     {
         title: "Completion & Preeti Bhoj",
         date: "April 20, 2026 (Monday)",
         time: "Path Completion at 10:00 AM, Lunch at 1:00 PM",
-        location: "Shri Ram Kripa Niwas, Village Dhobda",
+        location: "Shri Ram Kripa Niwas, Village Dhobra",
         image: "/c661ce996617cffb686a21846ec4dc43.jpg"
     },
     {
-        title: "Wedding & Reception",
+        title: "Wedding",
         date: "April 25, 2026 (Saturday)",
         time: "Baarat Welcome 8:00 PM | Doli Under Starry Sky",
-        location: "Uday Resorts, Jasswali, Pathankot",
+        location: "Udhay Resort, Jaswali, Pathankot",
         image: "/wed.jpg"
     }
 ];

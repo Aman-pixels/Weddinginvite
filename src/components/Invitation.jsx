@@ -41,7 +41,7 @@ const Invitation = () => {
                     </h2>
                     
                     <p className="font-sans text-stone-500 text-sm md:text-base leading-relaxed max-w-sm mx-auto">
-                        (Son of Shri Rajkumar Saini & Smt. Anju Saini, Pathankot)
+                        (Son of Shri Rajkumar Saini & Smt. Anu Saini, Pathankot)
                     </p>
                 </div>
                 
