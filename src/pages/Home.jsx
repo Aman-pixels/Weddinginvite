@@ -4,7 +4,6 @@ import Hero from '../components/Hero';
 import Invitation from '../components/Invitation';
 import Details from '../components/Details';
 import Events from '../components/Events';
-import Gallery from '../components/Gallery';
 import MusicButton from '../components/MusicButton';
 import Footer from '../components/Footer';
 
@@ -20,7 +19,6 @@ const Home = () => {
             <Invitation />
             <Details />
             <Events />
-            <Gallery />
             <Footer />
             <MusicButton />
         </motion.div>

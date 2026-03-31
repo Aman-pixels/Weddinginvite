@@ -68,7 +68,7 @@ const Details = () => {
                         title="The Venue"
                         description={
                             <span>
-                                Uday Resorts
+                                Udhay Resorts
                                 <br />
                                 Jasswali, Pathankot
                                 <br />

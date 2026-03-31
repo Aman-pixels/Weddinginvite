@@ -16,11 +16,11 @@ const Hero = () => {
                     filter: 'brightness(1.05) contrast(1.05)'
                 }}
             >
-                <div className="absolute inset-0 bg-white/10"></div>
+                <div className="absolute inset-0 bg-black/40"></div>
             </div>
 
             <motion.div
-                className="relative z-10 h-full flex flex-col items-center justify-center text-center text-stone-800 px-4"
+                className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-4"
                 style={{ y: yText, opacity: opacityText }}
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
@@ -38,7 +38,7 @@ const Hero = () => {
 
                 {/* Names */}
                 <motion.h1
-                    className="font-script text-[clamp(3.5rem,10vw,8rem)] mb-8 md:mb-10 text-stone-800 drop-shadow-[0_0_25px_rgba(255,255,255,1)] leading-none"
+                    className="font-script text-[clamp(3.5rem,10vw,8rem)] mb-8 md:mb-10 text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)] leading-none"
                     initial={{ scale: 0.9, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ duration: 1.2, delay: 1.2, ease: "easeOut" }}
@@ -67,7 +67,7 @@ const Hero = () => {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 2.5, duration: 1 }}
                 >
-                    <p className="font-serif text-[10px] md:text-xs tracking-[0.4em] uppercase text-stone-500 mb-2">
+                    <p className="font-serif text-[10px] md:text-xs tracking-[0.4em] uppercase text-white/80 mb-2">
                         RSVP
                     </p>
                     <motion.div
