@@ -1,18 +1,10 @@
-import React, { useState } from 'react';
-import { AnimatePresence } from 'framer-motion';
-import Loader from './components/Loader';
+import React from 'react';
 import Home from './pages/Home';
 
 function App() {
-  const [isLoaded, setIsLoaded] = useState(false);
-
   return (
     <>
-      <AnimatePresence>
-        {!isLoaded && <Loader onOpen={() => setIsLoaded(true)} />}
-      </AnimatePresence>
-
-      {isLoaded && <Home />}
+      <Home />
     </>
   );
 }
